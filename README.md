@@ -1,4 +1,4 @@
 # GibbetGame
-client server game "Gibbet (Hangman)" on Python 2
-client works on simple grafic GUI
-server use list of proper english words to chose one
+Client server game "Gibbet (Hangman)" on Python 2.
+Client works on simple grafic GUI.
+Server use list of proper english words to chose one.
